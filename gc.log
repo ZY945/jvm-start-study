@@ -1,0 +1,11 @@
+[0.017s][info][gc] Using G1
+[0.098s][info][gc] GC(0) Pause Young (Concurrent Start) (G1 Humongous Allocation) 2M->1M(26M) 1.600ms
+[0.098s][info][gc] GC(1) Concurrent Undo Cycle
+[0.099s][info][gc] GC(1) Concurrent Undo Cycle 0.366ms
+[0.120s][info][gc] GC(2) Pause Young (Concurrent Start) (G1 Humongous Allocation) 17M->17M(26M) 1.344ms
+[0.120s][info][gc] GC(3) Concurrent Mark Cycle
+[0.121s][info][gc] GC(4) Pause Young (Normal) (G1 Humongous Allocation) 17M->17M(26M) 0.390ms
+[0.124s][info][gc] GC(5) Pause Full (G1 Compaction Pause) 17M->17M(26M) 1.989ms
+[0.126s][info][gc] GC(6) Pause Full (G1 Compaction Pause) 17M->1M(26M) 2.124ms
+[0.126s][info][gc] GC(3) Concurrent Mark Cycle 5.862ms
+[0.129s][info][gc] GC(7) Pause Full (System.gc()) 17M->17M(26M) 1.720ms
